@@ -93,6 +93,7 @@ $$
 \end{cases}
 $$
 
+ 
 $$
 \text{diff} = (a \& \text{mask}) - (b \& \text{mask})
 $$
